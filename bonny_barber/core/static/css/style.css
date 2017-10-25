@@ -15,8 +15,8 @@ p {
   line-height: 2rem;
 }
 
-.button-collapse {
-  color: #26a69a;
+.button-collapse .material-icons {
+  color: #ff6d00;
 }
 
 .parallax-container {
