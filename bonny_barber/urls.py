@@ -20,4 +20,5 @@ from bonny_barber.core import views as core_views
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', core_views.home),
+    url(r'^teste$', core_views.teste_base),
 ]
